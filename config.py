@@ -12,4 +12,4 @@ REPO_NAME = 'arxiv-daily'
 NEW_SUB_URL = 'https://arxiv.org/list/cs/new'
 
 # Keywords to search
-KEYWORD_LIST = ["Tensor Core", "Sparse Martix", "Sparse Tensor", "TVM", "Tensor"]
+KEYWORD_LIST = ["Sparse Martix", "Sparse Tensor", "Sparse Compiler", "C Code Generation", "Generation AI", "Mental Model and LLM-Based Agent"]
